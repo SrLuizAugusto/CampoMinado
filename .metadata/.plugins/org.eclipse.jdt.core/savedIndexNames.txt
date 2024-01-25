@@ -1,0 +1,21 @@
+INDEX VERSION 1.134+C:\Users\lauol\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+2466834277.index
+3624450043.index
+3159210839.index
+1326016167.index
+92077609.index
+782764804.index
+872850081.index
+4113441279.index
+4114534330.index
+1880905179.index
+2577663709.index
+2342496216.index
+2698099153.index
+3186048363.index
+1043412053.index
+1865797976.index
+4076288464.index
+2545510462.index
+1232551358.index
